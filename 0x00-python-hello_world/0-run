@@ -1,1 +1,2 @@
-qwertyuiop
+#!/bin/bash
+python3 $PYFILE
