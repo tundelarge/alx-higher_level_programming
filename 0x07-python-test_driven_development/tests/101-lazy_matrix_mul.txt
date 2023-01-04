@@ -1,9 +1,3 @@
-
-
-Ad
-/
-alx-higher_level_programmin
-
 =================================
 How to Use 101-lazy_matrix_mul.py
 =================================
