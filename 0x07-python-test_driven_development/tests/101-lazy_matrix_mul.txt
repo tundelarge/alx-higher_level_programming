@@ -1,21 +1,8 @@
 
 
-AdiyoFouad
+Ad
 /
-alx-higher_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-higher_level_programming/0x07-python-test_driven_development/tests/101-lazy_matrix_mul.txt
-@AdiyoFouad
-AdiyoFouad Python test driven development
- 1 contributor
-218 lines (160 sloc)  4.9 KB
+alx-higher_level_programmin
 
 =================================
 How to Use 101-lazy_matrix_mul.py
